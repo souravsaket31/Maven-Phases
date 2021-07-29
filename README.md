@@ -19,6 +19,6 @@ compile  --> it will execute goal compile : compile that will compile only src/m
 site --> mainly used for documentation and websites 
 
 m1 : clean test 
-m1 : clean package site
+m2 : clean package site
 
 <img src="https://cgunturme.files.wordpress.com/2020/05/mavenlifecycles.png" />
